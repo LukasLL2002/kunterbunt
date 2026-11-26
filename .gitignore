@@ -1,0 +1,9 @@
+# Niemals die offene App oder den Code einchecken
+kunterbunt.html
+app/
+build-src/
+shots/
+api.json
+share.html
+.env
+.env.*
